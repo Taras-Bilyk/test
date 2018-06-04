@@ -1,0 +1,24 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	background-color: #000;
+}
+nav{
+	width: 1080px;
+	margin: 0 auto;
+}
+li{
+	display: inline-block;
+}
+a{
+	display: block;
+	text-decoration: none;
+	padding: 12px;
+	font-family: "Arial", sans-serif;
+	color: #ffffff;
+}
+a:hover{
+	background-color: #666666;
+}
