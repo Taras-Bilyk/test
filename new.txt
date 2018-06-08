@@ -1,4 +1,1 @@
-123
-54321
-kjgjhfvcjhge
-jegdckuejgckjre
+Новий текст у файлі new
