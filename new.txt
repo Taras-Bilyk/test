@@ -1,1 +1,4 @@
-Новий текст у файлі new
+function getKnowledge($money){
+	$result = $money + $knowledge;
+	echo($result);
+}
