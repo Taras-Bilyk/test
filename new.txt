@@ -1,11 +1,4 @@
-<<<<<<< HEAD
 function getKnowledge($money){
 	$result = $money + $knowledge;
 	echo($result);
 }
-=======
-123
-54321
-kjgjhfvcjhge
-jegdckuejgckjre
->>>>>>> a7fd7d40c5b542858f7f07b0b48d8b4e5f59c5e0
