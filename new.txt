@@ -1,4 +1,4 @@
-123
-54321
-kjgjhfvcjhge
-jegdckuejgckjre
+function getKnowledge($money){
+	$result = $money + $knowledge;
+	echo($result);
+}
